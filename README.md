@@ -7,6 +7,7 @@ You can click to rotate tiles to join the wires together, but you cannot move ti
 ![alt text](Images/Rotation.png)
 
 However, there is more to the puzzle — the station is only effective up to a finite radius, and tiles beyond that radius will be unpowered:
+
 ![alt text](Images/Radius.png)
 
 Therefore, you will have to use the arrow keys to move the power station. Furthermore, the power station must follow the path created by the wiring. The player wins when all the tiles are lit up:
